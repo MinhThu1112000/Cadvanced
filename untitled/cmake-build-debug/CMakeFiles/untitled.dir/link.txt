@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled.dir/MyIgraph/src/myGraph1.c.o CMakeFiles/untitled.dir/MyIgraph/src/mygraph.c.o CMakeFiles/untitled.dir/MyIgraph/src/queue.c.o CMakeFiles/untitled.dir/MyIgraph/main.c.o  -o untitled  libfdr/libfdr.a 

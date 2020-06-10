@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StreetGraph"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libfdr\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StreetGrap">
+				<Option output="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/StreetGrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph"/>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph/libfdr"/>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph/MyIgraph/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 StreetGrap"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StreetGrap/fast">
+				<Option output="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/StreetGrap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph"/>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph/libfdr"/>
+					<Add directory="/home/seadragnol/CLionProjects/StreetGraph/MyIgraph/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 StreetGrap/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr">
+				<Option output="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr/fast">
+				<Option output="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/StreetGraph/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/MyIgraph/main.c">
+			<Option target="StreetGrap"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/MyIgraph/src/mygraph.c">
+			<Option target="StreetGrap"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/MyIgraph/src/queue.c">
+			<Option target="StreetGrap"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/dllist.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/dllist.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/fields.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/fields.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/jrb.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/jrb.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/jval.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/jval.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/StreetGraph/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

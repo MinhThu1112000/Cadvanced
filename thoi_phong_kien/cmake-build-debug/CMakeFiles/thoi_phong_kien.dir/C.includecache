@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MyIgraph/include/mygraph.h
+jrb.h
+../MyIgraph/include/jrb.h
+jval.h
+../MyIgraph/include/jval.h
+
+../libfdr/fields.h
+stdio.h
+-
+
+../libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/seadragnol/CLionProjects/thoi_phong_kien/MyIgraph/main.c
+stdio.h
+-
+stdlib.h
+-
+fields.h
+/home/seadragnol/CLionProjects/thoi_phong_kien/MyIgraph/fields.h
+mygraph.h
+/home/seadragnol/CLionProjects/thoi_phong_kien/MyIgraph/mygraph.h
+

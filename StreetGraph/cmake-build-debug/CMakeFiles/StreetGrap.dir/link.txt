@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/StreetGrap.dir/MyIgraph/src/mygraph.c.o CMakeFiles/StreetGrap.dir/MyIgraph/src/queue.c.o CMakeFiles/StreetGrap.dir/MyIgraph/main.c.o  -o StreetGrap  libfdr/libfdr.a 

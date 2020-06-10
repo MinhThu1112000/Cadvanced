@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cuongcho.dir/main.c.o CMakeFiles/cuongcho.dir/libfdr/dllist.c.o CMakeFiles/cuongcho.dir/libfdr/fields.c.o CMakeFiles/cuongcho.dir/libfdr/jrb.c.o CMakeFiles/cuongcho.dir/libfdr/jval.c.o CMakeFiles/cuongcho.dir/src/fileprocess.c.o  -o cuongcho 

@@ -1,0 +1,6 @@
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/CMakeFiles/rebuild_cache.dir
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/CMakeFiles/edit_cache.dir
+/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/CMakeFiles/fdr.dir

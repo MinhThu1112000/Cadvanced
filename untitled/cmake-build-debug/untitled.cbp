@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libfdr\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/seadragnol/CLionProjects/untitled"/>
+					<Add directory="/home/seadragnol/CLionProjects/untitled/libfdr"/>
+					<Add directory="/home/seadragnol/CLionProjects/untitled/MyIgraph/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/untitled" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/seadragnol/CLionProjects/untitled"/>
+					<Add directory="/home/seadragnol/CLionProjects/untitled/libfdr"/>
+					<Add directory="/home/seadragnol/CLionProjects/untitled/MyIgraph/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr">
+				<Option output="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr/fast">
+				<Option output="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/seadragnol/CLionProjects/untitled/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/MyIgraph/main.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/MyIgraph/src/myGraph1.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/MyIgraph/src/mygraph.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/MyIgraph/src/queue.c">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/dllist.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/dllist.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/fields.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/fields.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/jrb.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/jrb.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/jval.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/jval.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/seadragnol/CLionProjects/untitled/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
